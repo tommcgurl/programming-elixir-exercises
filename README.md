@@ -13,7 +13,7 @@ See the comment in each file for more specific information.
 
 ### Chapters Completed
 - [x] Chapter 5 - Anonymous Functions
-- [ ] Chapter 6 - Modules and Named Functions
+- [x] Chapter 6 - Modules and Named Functions
 - [ ] Chapter 7 - Lists and Recursion
 - [ ] Chapter 8 - Dictionaries
 - [ ] Chapter 10 - Enum and Stream
