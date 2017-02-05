@@ -15,7 +15,7 @@ See the comment in each file for more specific information.
 - [x] Chapter 5 - Anonymous Functions
 - [x] Chapter 6 - Modules and Named Functions
 - [x] Chapter 7 - Lists and Recursion
-- [ ] Chapter 8 - Dictionaries
+- [x] Chapter 8 - Dictionaries
 - [ ] Chapter 10 - Enum and Stream
 - [ ] Chapter 11 - Strings and Binaries
 - [ ] Chapter 12 - Control flow
